@@ -6,7 +6,7 @@ import (
 	"sort"
 	"testing"
 
-	"github.com/example/wordcounter/internal/walker"
+	"github.com/wordcounter/internal/walker"
 )
 
 // createTree builds a temp directory tree with the given structure.

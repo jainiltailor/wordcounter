@@ -22,9 +22,9 @@ import (
 	"strings"
 	"syscall"
 
-	"github.com/example/wordcounter/internal/counter"
-	"github.com/example/wordcounter/internal/reporter"
-	"github.com/example/wordcounter/internal/walker"
+	"github.com/wordcounter/internal/counter"
+	"github.com/wordcounter/internal/reporter"
+	"github.com/wordcounter/internal/walker"
 )
 
 // ─── CLI flags ────────────────────────────────────────────────────────────────
