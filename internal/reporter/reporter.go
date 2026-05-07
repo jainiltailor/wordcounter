@@ -11,7 +11,7 @@ import (
 	"strings"
 	"text/tabwriter"
 
-	"github.com/example/wordcounter/internal/counter"
+	"github.com/jainiltailor/wordcounter/internal/counter"
 )
 
 // Format is the output format selector.

@@ -8,7 +8,7 @@ import (
 	"strings"
 	"testing"
 
-	"github.com/wordcounter/internal/counter"
+	"github.com/jainiltailor/wordcounter/internal/counter"
 )
 
 // ─── Helpers ─────────────────────────────────────────────────────────────────
